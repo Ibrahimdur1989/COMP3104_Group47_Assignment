@@ -9,3 +9,7 @@ What we learn
 - CI/CD build pipelines
 - Using GitHub Actions for automation
 - use awesome technologies like Amazon Web Services (AWS), Ansible, Docker, and Travis CI.
+
+Contents
+- git init & working with git 
+- Introduction to Travis CI and GitHub Action
