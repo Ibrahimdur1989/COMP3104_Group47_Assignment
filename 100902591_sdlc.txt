@@ -3,3 +3,4 @@ software development cycle
 -integration and deployment
 -CI/CD (Continuous Integration and Continuous Deployment);
  teaches you how to build a super-efficient pipeline. 
+-Ensures faster and more reliable delivery
