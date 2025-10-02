@@ -15,3 +15,6 @@ Contents
 - Introduction to Travis CI and GitHub Action
 - Configure NodeJS Project, GitHub Action, PR template and Travis
 - Single Page Application using React JS
+- Java maven project
+- Docker introduction
+- Ansible playbook
