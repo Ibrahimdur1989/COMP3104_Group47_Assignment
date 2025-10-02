@@ -7,7 +7,7 @@ Assignment 1 for Comp3104 - Devops, Group47
 -Jinah Ahn: 100902591-Jinah     https://github.com/paulfrankey5
 
 
-<Description>
+## Description
 
 
 This repository is for COMP3104 Group 47 Assignment.
@@ -15,7 +15,7 @@ This repository is for COMP3104 Group 47 Assignment.
 It demonstrates GitHub branching strategies, commit history(more 10), pull requests, and CI/CD setup with GitHub Actions.
 
 
-<Instruction for setup>
+## Instruction for setup
 
 -Clone the repository from Team: git clone repo link
 
@@ -26,7 +26,7 @@ It demonstrates GitHub branching strategies, commit history(more 10), pull reque
 -Push the branch and create a pull request (git push)
 
 
-<Branching Strategy>
+## Branching Strategy
 
 Each member created a personal branch named with their StudentID-Name. (Ex: 100902591-Jinah)
 
