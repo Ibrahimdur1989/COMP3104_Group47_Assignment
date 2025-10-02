@@ -14,3 +14,4 @@ Contents
 - git init & working with git 
 - Introduction to Travis CI and GitHub Action
 - Configure NodeJS Project, GitHub Action, PR template and Travis
+- Single Page Application using React JS
