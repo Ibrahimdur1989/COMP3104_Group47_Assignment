@@ -8,3 +8,8 @@ George Brown College
 
 <About Program>
 GBC programs cover many subjects and are designed for students from all backgrounds.
+
+<Location>
+1.Casa Loma Campus
+2.St.James Campus
+3.Waterfront Campus 
