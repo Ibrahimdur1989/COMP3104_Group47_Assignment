@@ -1,3 +1,4 @@
 In this course, students learn the procedures, protocols, and best practices that a DevOps engineer brings to a workplace to increase productivity. Topics include continuous integration and deployment (CI/CD), software development lifecycle management, and containerization for deployment. The course emphasizes collaboration, code quality, and automation using industry-standard DevOps tools.
 Students learn GitHub Actions and CI/CD tools.
 DevOps uses Docker and Jenkins.
+DevOps integrates development and operations for faster delivery and continuous improvement.
