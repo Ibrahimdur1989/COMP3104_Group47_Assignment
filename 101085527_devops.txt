@@ -1,0 +1,4 @@
+In this course I learned how DevOps connects developwes and operations together. We used 
+GitHub Actions to test and deploy our code automatically which makes work easier. Also I 
+learned about Docker and Jenkins and how they help in CI/CD. For me, DevOps is about saving
+ time, teamwork, and always improving the project.
