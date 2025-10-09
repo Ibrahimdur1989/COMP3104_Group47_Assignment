@@ -1,0 +1,3 @@
+DevOps plays a vital role in the Software Development Lifecycle (SDLC) by improving collaboration between development and operations teams. It ensures faster delivery, continuous testing, automation, and better deployment reliability. By applying DevOps principles, organizations achieve higher software quality and reduce time to market.
+DevOps makes teamwork faster and easier.
+Software development life cycle includes planning, designing, developing, testing, and deployment.

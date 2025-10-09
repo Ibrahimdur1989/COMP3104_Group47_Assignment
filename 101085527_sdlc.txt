@@ -1,0 +1,5 @@
+SDLC means Software Development Life Cycle. It has many steps like planning, 
+designing, coding, testing, and deployment. DevOps makes this process faster 
+because of automation and continuous testing. I understand now how CI/CD makes
+updates easier and helps teams work better together. It's one of the most usefull
+things I learned in this course.
