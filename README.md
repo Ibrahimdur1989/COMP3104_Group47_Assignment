@@ -9,6 +9,7 @@ Assignment 1 for Comp3104 - Devops, Group47
 - **Leader:** Ebrahim Al-Serri (101085527) - [GitHub] (https://github.com/Ibrahimdur1989)
 - **Member:** Jinah Ahn (100902591) - [GitHub](https://github.com/paulfrankey5)
 - **Member:** Minilik Meja (100516804) - [GitHub](https://github.com/Minimeja)
+- **Member:** Tanupreet Kaur (101633672) - [GitHub](https://github.com/tanupreet21)
 
 
 
