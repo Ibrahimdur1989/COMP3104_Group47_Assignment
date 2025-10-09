@@ -22,10 +22,9 @@ It demonstrates GitHub branching strategies, commit history(more 10), pull reque
 
 -Switch to the branch: git checkout 100902591-Jinah
 
--Changes and add commit regularly(git add, git commit -m, git push)
+-Changes and add commit regularly(git add, git commit -m, git push) 
 
 -Push the branch and create a pull request (git push)
-
 
 
 ## Branching Strategy
@@ -33,4 +32,5 @@ It demonstrates GitHub branching strategies, commit history(more 10), pull reque
 Each member created a personal branch named with their StudentID-Name. (Ex: 100902591-Jinah)
 
 All branches are merged into master through pull requests.
+
 
