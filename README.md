@@ -4,7 +4,7 @@ Assignment 1 for Comp3104 - Devops, Group47
 
  Group Member
 
-\*\*Member 2:\*\* Jinah Ahn (100902591) - \[GitHub](https://github.com/paulfrankey5)
+&nbsp;\*\*Member:\*\* Jinah Ahn (100902591) - \[GitHub](https://github.com/paulfrankey5)
 
 ## Description
 
