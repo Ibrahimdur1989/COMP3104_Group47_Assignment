@@ -1,0 +1,20 @@
+COMP3104 DevOps for IT Professionals
+
+This course, COMP 3104, is here to help you get ready for a job in IT—especially one where you'll deal with servers, web apps, and the infrastructure that businesses rely on.
+
+What we learn
+- DevOps tools 
+- Learn Git and GitHub
+- Branching strategies
+- CI/CD build pipelines
+- Using GitHub Actions for automation
+- use awesome technologies like Amazon Web Services (AWS), Ansible, Docker, and Travis CI.
+
+Contents
+- git init & working with git 
+- Introduction to Travis CI and GitHub Action
+- Configure NodeJS Project, GitHub Action, PR template and Travis
+- Single Page Application using React JS
+- Java maven project
+- Docker introduction
+- Ansible playbook
