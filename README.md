@@ -1,12 +1,16 @@
-# COMP3104\_Group47\_Assignment
 
-Assignment 1 for Comp3104 - Devops, Group47
+# COMP3104_Group47_Assignment
 
- Group Member
+Assignment 1 for Comp3104 - Devops, Group47 
+
+
+## Group Members
 
 - **Leader:** Ebrahim Al-Serri (101085527) - [GitHub] (https://github.com/Ibrahimdur1989)
-
 - Jinah Ahn: 100902591-Jinah     https://github.com/paulfrankey5
+- **Member:** Minilik Meja (100516804) - [GitHub](https://github.com/Minimeja)
+
+
 
 
 ## Description
@@ -33,4 +37,5 @@ It demonstrates GitHub branching strategies, commit history(more 10), pull reque
 Each member created a personal branch named with their StudentID-Name. (Ex: 100902591-Jinah)
 
 All branches are merged into master through pull requests.
+
 
